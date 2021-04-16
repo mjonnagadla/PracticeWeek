@@ -1,0 +1,22 @@
+{
+  "name": "51918",
+  "version": "1.0.0",
+  "description": "Learning Cypress and implementing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mjonnagadla/PracticeWeek.git"
+  },
+  "author": "Manasa Jonnagadla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjonnagadla/PracticeWeek/issues"
+  },
+  "homepage": "https://github.com/mjonnagadla/PracticeWeek#readme",
+  "devDependencies": {
+    "cypress": "^7.1.0"
+  }
+}
